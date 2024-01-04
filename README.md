@@ -69,7 +69,7 @@ As the evaluation metric for regression, I've chosen the Mean Squared Error (MSE
 
 ### Identifying Important Features: Variable Importance
 
-![image](Images/Images/Image_10.png)
+![](Images/Image_1.png)
 
 The variable importance analysis reveals some of the most influential variables in our models:
 
