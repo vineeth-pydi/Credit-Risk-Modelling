@@ -1,6 +1,8 @@
 # Credit Risk Modelling
 Leveraging machine learning techniques to maximize profits from loans by addressing class imbalance, employing a two-stage modeling approach, and optimizing model performance using F1 score for classification and RMSE for regression tasks.
 
+**The code and detailed analysis can be found here:![](credit_risk_Modelling.md)**
+
 ## Problem Statement
 
 In this project, my primary focus is on quantifying the credit risk associated with individuals applying for loans at a bank. The project encompasses two key objectives:
